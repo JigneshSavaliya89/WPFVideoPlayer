@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFVideoPlayer", "WPFVideoPlayer\WPFVideoPlayer.csproj", "{1C3D2DBC-540C-4C1A-937A-BB233C0F034F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C3D2DBC-540C-4C1A-937A-BB233C0F034F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3D2DBC-540C-4C1A-937A-BB233C0F034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3D2DBC-540C-4C1A-937A-BB233C0F034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3D2DBC-540C-4C1A-937A-BB233C0F034F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B977CDA-5447-4281-B4C3-DD74235C6904}
+	EndGlobalSection
+EndGlobal
